@@ -1,0 +1,34 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                      http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    
+    <parent>
+		<groupId>com.walterjwhite</groupId>
+		<artifactId>modules</artifactId>
+		<version>0.0.15-SNAPSHOT</version>
+    </parent>
+
+    <name>datetime</name>
+    <description>datetime</description>
+    <url>https://github.com/walterjwhite/datetime</url>
+
+    <groupId>com.walterjwhite.modules</groupId>
+    <artifactId>datetime</artifactId>
+    <version>0.0.15-SNAPSHOT</version>
+    <packaging>jar</packaging>
+
+    <dependencies>
+        
+    </dependencies>
+
+    <scm>
+        <connection>scm:git:ssh://git@localhost:/projects/active/github.com/java/modules/datetime.git</connection>
+        <developerConnection>scm:git:ssh://git@localhost:/projects/active/github.com/java/modules/datetime.git</developerConnection>
+        <url>https://github.com/walterjwhite/datetime.git</url>
+    </scm>
+
+    <properties>
+
+    </properties>
+</project>
